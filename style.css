@@ -1,0 +1,18 @@
+p{
+    color: green;
+}
+
+.bold-font {
+    font-weight: bold;
+    font-size: 1.125rem;
+}
+
+.ugly-text{
+    color: red;
+    background-color: blue;
+    font-family: "Comic Sans MS";
+}
+#fancy-paragraph{
+    border: hotpink solid 2px;
+    
+}
