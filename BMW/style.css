@@ -1,0 +1,68 @@
+video {
+  margin-left: -10.5%;
+  margin-top: -18.2vw;
+  margin-bottom: -1vw;
+  transform: scale(0.3);
+  border: 10px solid transparent;
+  border-radius: 4vw;
+}
+
+#logo {
+  height: 4vw;
+  width: 4vw;
+}
+
+.logo-btn {
+  background-color: transparent;
+  border: none;
+}
+
+nav li {
+  padding-right: 10%;
+  padding-left: 10%;
+}
+
+body {
+  position: fixed;
+}
+
+.card {
+  background: rgb(232, 232, 232);
+  background: linear-gradient(90deg, rgba(232, 232, 232, 1) 22%, rgba(230, 230, 230, 1) 44%, rgba(245, 245, 245, 1) 69%);
+  margin-top: -13%;
+  max-width: 33.3vw;
+}
+
+.card-group {
+  margin-top: 0.5%;
+  margin-left: 0%;
+  margin-right: 0vw;
+}
+
+.card-title {
+  font-size: 120%;
+  text-decoration: underline;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.card-text {
+  font-size: 105%;
+  font-style: italic;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.btn {
+  background-color: black;
+  border: none;
+  color: white;
+  border-radius: 20vw;
+  transform: scale(0.9);
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.btn:hover {
+  background-color: white;
+  border-color: black;
+  color: black;
+}
+

@@ -1,0 +1,45 @@
+#logo{
+    height: 4vw;
+    width: 4vw;
+  }
+  .logo-btn{
+    background-color: transparent;
+    border-color:transparent;
+  }
+  li{
+    padding-right: 10%;
+    padding-left: 10%;
+  }
+  body{
+    position: relative;
+    width: 100vw;
+  }
+  body {
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.navbar-brand img {
+    height: 40px;
+    width: auto;
+}
+
+.navbar-nav .nav-link {
+    color: #333;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #007bff;
+}
+
+main {
+    color: #333;
+}
+
+h1, h2 {
+    color: #007bff;
+}
+
+footer {
+    color: #777;
+}

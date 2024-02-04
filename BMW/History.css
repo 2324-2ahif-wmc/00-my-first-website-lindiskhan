@@ -1,0 +1,51 @@
+#logo{
+  height: 4vw;
+  width: 4vw;
+  }
+  .logo-btn{
+    background-color: transparent;
+    border-color:transparent;
+  }
+  li{
+    padding-right: 10%;
+    padding-left: 10%;
+  }
+  body{
+    width: 100vw;
+    background-size:auto;
+    position: relative;
+  }
+  .card {
+    margin-top: 2%;
+    margin-left: 1%;
+    background: rgb(232,232,232);
+    background: linear-gradient(90deg, rgba(232,232,232,1) 22%, rgba(230,230,230,1) 44%, rgba(245,245,245,1) 69%);
+    
+  }
+  .card-title{
+    font-size: 200%;
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .card-text{
+    font-size:105%;
+    font-style: italic;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  #TI{
+    color: lightblue;
+  }
+  #FO{
+    color:darkblue;
+  }
+  #CCFO{
+    color: red;
+  }
+  .card {
+    border: none;
+    margin-bottom: 20px;
+  } 
+
+  .card-text b {
+    color: #363d86;
+  }
